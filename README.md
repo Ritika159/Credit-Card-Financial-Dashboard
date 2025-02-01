@@ -1,4 +1,4 @@
-# Credit-Card-Financial-Dashboard
+# Credit Card Financial Dashboard
 Objective:
 The objective of this project is to develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends. This dashboard will enable stakeholders to effectively monitor and analyze credit card operations.
 
